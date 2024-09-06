@@ -1,0 +1,1 @@
+// Exercicio 1049 (typescript) Não resolvido.
